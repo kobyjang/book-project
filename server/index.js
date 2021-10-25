@@ -62,6 +62,7 @@ app.listen(5016, () => { // 5000 포트로 서버 오픈
     console.log('server is running on port 5016 .... - nodemon')
 })
 
+
 // const points = [3, 4]
 // const app = {}
 // app.doubleNums = (points) => {
