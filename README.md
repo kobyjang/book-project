@@ -1,6 +1,6 @@
- <center>
+<p align="center">
  ![image](https://user-images.githubusercontent.com/91588946/138635310-10982baf-87fd-46eb-9a8b-d793bdcf05ba.png)
-</center>
+<p align="center">
 
 # API 서버 구현 및 테스트 연습
 
