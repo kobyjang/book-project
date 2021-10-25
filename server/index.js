@@ -60,9 +60,7 @@ app.use( (req, res, next) => { // 사용자가 요청한 페이지가 없는 경
 
 app.listen(5016, () => { // 5000 포트로 서버 오픈
     console.log('server is running on port 5016 .... - nodemon')
-})
-
-
+}) 
 // const points = [3, 4]
 // const app = {}
 // app.doubleNums = (points) => {
@@ -76,7 +74,7 @@ app.listen(5016, () => { // 5000 포트로 서버 오픈
 //         s += p
 //     })
 //     return s;
-// }
+// } 
 // app.sq = (s) => {
 //     return Math.sqrt(s)
 // }
