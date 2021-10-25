@@ -1,5 +1,3 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/91588946/138635310-10982baf-87fd-46eb-9a8b-d793bdcf05ba.png"></p>
-
 
 # API 서버 구현 및 테스트 연습
 
@@ -44,3 +42,6 @@
   
   
 **API 중에서 새로운 도서를 생성할때 ISBN 필드를 데이터베이스에서 조회한 다음, 해당 도서가 있으면 생성을 하지말고, 없으면 생성(중복체크)**
+
+<p align="center"><img src="https://user-images.githubusercontent.com/91588946/138635310-10982baf-87fd-46eb-9a8b-d793bdcf05ba.png"></p>
+
