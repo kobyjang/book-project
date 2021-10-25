@@ -6,6 +6,7 @@
 
 
 - 데이터 모델 설계 - Book
+![image](https://user-images.githubusercontent.com/91588946/138635310-10982baf-87fd-46eb-9a8b-d793bdcf05ba.png)
 
 |필드명|설명|데이터 타입|
 |:---:|:---:|:---:|
