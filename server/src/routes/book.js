@@ -40,7 +40,6 @@ BookRouter.post('/', (req, res)=> {
                     } 
                 })
              })
-   
 BookRouter.put('/:id', (req, res)=> {
 //  데이터베이스 접속 후 id 값으로 모델 죄호 후 변경됨
     // res.send(`book ${req.params.id} updated`)
